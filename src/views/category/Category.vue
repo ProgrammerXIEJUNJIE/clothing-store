@@ -1,0 +1,193 @@
+<template>
+  <div>
+    <h1>分类</h1>
+    <div class="wrapper">
+      <ul class="content">
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+        <li>分类列表</li>
+      </ul>
+    </div>
+
+  </div>
+
+</template>
+
+<script>
+  import BScroll from 'better-scroll'
+    export default {
+        name: "Category",
+        data(){
+          return{
+            scroll:null
+          }
+        },
+        mounted(){
+          this.scroll=new BScroll(document.querySelector('.wrapper'),{
+
+          })
+        },
+        components:{
+
+        }
+    }
+</script>
+
+<style scoped>
+    .wrapper{
+      height: 150px;
+      background: #ff8198;
+      overflow: hidden;
+    }
+</style>
